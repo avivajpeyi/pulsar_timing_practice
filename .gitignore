@@ -17,3 +17,4 @@ outdir/*
 venv/
 *.pyc
 .idea
+.idea/workspace.xml
