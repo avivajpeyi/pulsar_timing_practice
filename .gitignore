@@ -5,7 +5,6 @@ docs/_*
 bilby.egg-info/
 MANIFEST
 *.pyc
-*.png
 *.h5
 *.h5.old
 *.txt
